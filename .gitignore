@@ -1,0 +1,13 @@
+data
+./data
+assets
+./assets
+workdir
+./workdir
+__pycache__/
+**__pycache__/
+*.out
+*.pth
+out_images/
+models/
+models
