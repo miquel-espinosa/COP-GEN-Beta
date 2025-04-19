@@ -2,12 +2,12 @@
 
 # [CVPRW 2025] 🌍 COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails
 
-[![HF](https://img.shields.io/badge/%F0%9F%A4%97-Demo-yellow)](https://huggingface.co/mespinosami/COP-GEN-Beta)
+[![HF](https://img.shields.io/badge/%F0%9F%A4%97-Demo-yellow)](https://huggingface.co/spaces/mikonvergence/COP-GEN-Beta)
 [![GitHub](https://img.shields.io/badge/%E2%80%8B-COP--GEN--Beta-black?logo=github)](https://github.com/miquel-espinosa/COP-GEN-Beta)
 [![website](https://img.shields.io/badge/🌐-Website-grey)](https://miquel-espinosa.github.io/cop-gen-beta/)
 [![HF](https://img.shields.io/badge/%F0%9F%A4%97-Model-yellow)](https://huggingface.co/mespinosami/COP-GEN-Beta)
 [![paper](https://img.shields.io/badge/arXiv-2402.12095-D12424)](https://www.arxiv.org/abs/2504.08548)
-<a href="https://colab.research.google.com/github/ESA-PhiLab/Major-TOM/blob/main/03-Filtering-in-Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/miquel-espinosa/COP-GEN-Beta/blob/main/COP_GEN_Beta_inference.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Abstract
 > _In remote sensing, multi-modal data from various sensors capturing the same scene_
