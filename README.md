@@ -9,6 +9,11 @@
 [![paper](https://img.shields.io/badge/arXiv-2402.12095-D12424)](https://www.arxiv.org/abs/2504.08548)
 <a href="https://colab.research.google.com/github/miquel-espinosa/COP-GEN-Beta/blob/main/COP_GEN_Beta_inference.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+This repository contains the official implementation of our paper:
+
+[COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails,
+*Miguel Espinosa*, *Valerio Marsocci*, *Yuru Jia*, *Elliot J. Crowley*, *Mikolaj Czerkawski*, CVPRW 2025](https://www.arxiv.org/pdf/2504.08548)
+
 ### Abstract
 > _In remote sensing, multi-modal data from various sensors capturing the same scene_
 _offers rich opportunities, but learning a unified representation across these modalities remains a significant challenge._
