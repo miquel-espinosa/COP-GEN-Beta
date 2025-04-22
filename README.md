@@ -127,6 +127,7 @@ data/majorTOM
 Align image modalities (find common grid_cells), patchify into 256x256 patches (thumbnails are 1068x1068, we first crop to 1024x1024, then patchify), create train/test splits.
 
 ```bash
+# export PYTHONPATH=$(pwd) # Run if encoutering error: ModuleNotFoundError: No module named 'libs' 
 python3 prepare_dataset_images.py --subset_path data/majorTOM/rome --output_dir data/majorTOM/rome/rome_thumbnail_png --bands thumbnail
 ```
 
