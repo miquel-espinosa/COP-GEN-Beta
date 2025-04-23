@@ -195,7 +195,7 @@ Train the model using the following command (2 GPUs, 4 modalities). Adjust the n
 
 NOTE on the config file:
 - Since we are training on a toy dataset, we set the batch size to 8. Feel free to increase it for larger datasets.
-- Logging frequency, eval frequency, and save frequency are set to 2 for faster training. Feel free to increase it for larger datasets.
+- Logging frequency, eval frequency, and save frequency are set to 2 for faster logging. Feel free to increase it for larger datasets.
 
 Visual results, checkpoints, and logs are stored in a generated folder called `workdir`.
 
